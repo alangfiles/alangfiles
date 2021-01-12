@@ -3,6 +3,7 @@ Programmer with over 10 years of experience in software systems and web developm
 
 Location: Columbus, Ohio
 
+
 ## Programming
 Languages: JavaScript, Graphql, C#, Java, SQL, CSS, HTML, ActionScript/Flash Flex
 
@@ -44,6 +45,7 @@ CDC Electronic Public Health Tracking Network - Java/Struts Website, with HTML5
 NASA Heat mapping over cities - javascript with arcgis mapping
 
 Kingdom of Saudi Arabia, GIS Mapping sites - javascript 
+
 
 
 ## Education
