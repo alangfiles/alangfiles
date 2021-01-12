@@ -39,7 +39,8 @@ Kingdom of Saudi Arabia, GIS Mapping sites - javascript
 
 
 ## Education
-Bachelor of Science in Computer Science and Engineering - The Ohio State University 2008
+Bachelor of Science in Computer Science and Engineering  
+The Ohio State University 2008  
 _Emphasis on Programming and Systems Software_
 
 
