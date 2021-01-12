@@ -2,7 +2,17 @@
 
 I'm Alan Files. A software developer in Columbus, Ohio. I'm interested in Software Development, Security, Programming, and how these things make their way into the real world. I'm always poking around with functional code, ideas of writing a NES game in assembly, or making the perfectly confusing code golf exercise. To balance out that eccentricity, I spend a lot of time making websites with javascript, react, and graphql.
 
-_Did you know there's an emoji volcano, how lucky are we_ :volcano:
+## Programming
+so... fizzbuzz right?
+```javascript
+for(i=0;i<100;)alert((++i%3?'':'Fizz')+(i%5?'':'Buzz')||i)
+```
+
+## Addendum
+
+# :volcano:
+_Did you know there's an emoji volcano, how lucky are we?_ 
+
 
 <!--
 **alangfiles/alangfiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
