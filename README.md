@@ -11,7 +11,7 @@ for(i=0;i<100;)alert((++i%3?'':'Fizz')+(i%5?'':'Buzz')||i)
 ## Addendum
 
 # :volcano:
-_Did you know there's an emoji volcano, how lucky are we?_ 
+_Did you know there's a volcano emoji, how lucky are we?_ 
 
 
 <!--
