@@ -12,7 +12,7 @@ Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio
 Certifications: Certified Scrum Master (CSM I)  
 
 
-## Career
+## Experience
 ### **Startups.com**: _2018 - Present_
 Building software  
 Technologies: React, Node, Javascript, Graphql  
