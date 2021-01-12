@@ -34,14 +34,21 @@ Freelance software development at a hospital in Kenya.
 
 ### **Battelle**: _2015 - 2010_
 Software development with many different organizations and US Govt work with a Security Clearance 
+
 Genetic Sequencing Software - Java Application for comparing different FASTQ sequences: Alleles, SNPS, INDELs
+
 Health Analytics Software - Microsoft MVC4 Site to help hospital's statistical analysis to target savings
+
 CDC Electronic Public Health Tracking Network - Java/Struts Website, with HTML5
+
 NASA Heat mapping over cities - javascript with arcgis mapping
+
 Kingdom of Saudi Arabia, GIS Mapping sites - javascript 
 
 
 ## Education
 Bachelor of Science
+
 Computer Science and Engineering
+
 The Ohio State University, 2008
