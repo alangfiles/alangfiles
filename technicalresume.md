@@ -86,7 +86,7 @@ Modular design, created in Netbeans
 Work in Java UI design
 Learned about various genetic processes: Alleles, SNPS, INDELs
 
-## Ohio State University: Senior Thesis Project
+### Ohio State University: Senior Thesis Project
 Latent semantic text search engine  
 Java backend processing HTML search results of published papers (abstracts only).  
 The abstracts were collected in XML, processed to retreive key words or importance, and then mapped in an n-dimensional space of those words. The front end accepted text through HTML and made a call to situate the user input in that n-dimensional space, and find all the abstracts closest to the user input. Exact semantic matching didn't need to occur, since linguistically close ideas should appear in the abstracts.
