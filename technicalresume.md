@@ -35,6 +35,23 @@ Interests: Functional programming, ASM programming, Android Development
 
 ## Exhaustive Experience
 
+---
+### Startups.com: Building various tools for engaging startup founders
+Worked on a highly skilled small team to manage 7 websites, build new features and support at 50 person organization. 
+
+### Startups.com Rewrite
+Convert the old legacy site for startups.co to the newly purchased .com domain. Rebuilt the site with Webpack, Node.js, React, GraphQL, and a custom visual design library. Deployed in Docker containers on AWS.
+
+### Startups.com Design Library
+Created a new custom visual design library of components to work with React for quick building pages. Built off some base components (`<Container/>`, `<Text/>` and various `<Layouts/>`) quick designs could be made using the default props, and deeper changes could be made to any component through a robust prop system. Built with CSS-in-JS (Emotion), and published/consumed as an internal npm package.
+
+### Startups.com Security Audit
+Compiled a security audit against npm packages used in our main projects, as well as reviewing and testing our API endpoints.
+
+---
+## Improving, Inc: Consulting firm
+A tech consulting firm in Columbus, Ohio. 200 employees at the time, my responsibilities were at client locations, as well as interviewing new employees, interviewing at clients, and teaching / mentoring consultants.
+
 ### Improving Client: IGS, Energy Resale – Customer facing Website  
 Worked with a team of four, in an agile process, to convert legacy code to new production code. The original site was written in AngularJS, and I was one of the developers moving the application to React with Redux. Other responsibilities: 
 Working closely with the Marketing department for requirements and approval
@@ -49,6 +66,8 @@ Interacting with clients, users, and interdepartmental organizations to achieve 
 Connecting and refactoring a legacy non-relational database
 Using Angular 4 with Leaflet.js to build a solid user experience
 
+---
+
 ### AIC Kapsowar Hospital: 
 Worked for 14 months at a rural Kenyan hospital. Helped with development and implementation on an Open Source Hospital Management Software (https://github.com/openhmis), and this involved becoming familiar with many of the hospital’s processes:
 Requirements gathering for pharmacy’s inventory and the clinician’s interface for prescriptions
@@ -60,6 +79,8 @@ Wiring CAT5 cable in the hospital, and setting up Wireless Access Points for ful
 Hiring and training a new IT tech for the hospital
 Building a new website for the hospital (www.kapsowarhospital.org)
  
+---
+
 ### Battelle Client: CDC Public Health Tracking Network 
 Developed and maintained a public portal for 30+ years of Public Health data in the U.S. Worked with an HTML5 frontend, and a separate Flash/Flex tool connected to a SQL backend. I helped guide this site through a transition from a very web 1.0 version to a more adaptable backend design.
 Site built on Java/STRUTS
@@ -85,6 +106,8 @@ Standalone Java desktop application
 Modular design, created in Netbeans
 Work in Java UI design
 Learned about various genetic processes: Alleles, SNPS, INDELs
+
+---
 
 ### Ohio State University: Senior Thesis Project
 Latent semantic text search engine  
