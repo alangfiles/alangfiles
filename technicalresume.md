@@ -1,4 +1,4 @@
-**This document is meant to be an exhaustive doc of what I've worked on over my career**
+**This document is an exhaustive list of what I've worked on over my career**
 
 ## Alan Files
 Location: Columbus, Ohio
@@ -6,10 +6,10 @@ Location: Columbus, Ohio
 
 ## Programming
 Languages: JavaScript, Graphql, C#, Java, SQL, CSS, HTML, ActionScript/Flash Flex  
-JavaScript Libraries:  React, Redux, Typescript, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS)  
-Tools: git, subversion, JIRA, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo  
+JavaScript Libraries:  React, Redux, Typescript, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion
+Tools: git, subversion, JIRA, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js
 Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
-Certifications: Certified Scrum Master (CSM I)  
+Certifications: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)
 Currently located in Columbus, Ohio, with 8+ years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked in 5-10 person teams, from developer to architect on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
 
 ## Education
@@ -35,32 +35,32 @@ Interests: Functional programming, ASM programming, Android Development
 
 ## Exhaustive Experience
 
+### Startups.com
+Building various tools for engaging startup founders. Worked on a highly skilled small team to manage 7 websites, build new features and support at 50 person organization. 
+
+* **Startups.com Rewrite**  
+  Convert the old legacy site for startups.co to the newly purchased .com domain. Rebuilt the site with Webpack, Node.js, React, GraphQL, and a custom visual design library. Deployed in Docker containers on AWS.
+
+* **Startups.com Design Library**  
+  Created a new custom visual design library of components to work with React for quick building pages. Built off some base components (`<Container/>`, `<Text/>` and various `<Layouts/>`) quick designs could be made using the default props, and deeper changes could be made to any component through a robust prop system. Built with CSS-in-JS (Emotion), and published/consumed as an internal npm package.
+
+* **Startups.com Security Audit**  
+  Compiled a security audit against npm packages used in our main projects, as well as reviewing and testing our API endpoints.
+
 ---
-### Startups.com: Building various tools for engaging startup founders
-Worked on a highly skilled small team to manage 7 websites, build new features and support at 50 person organization. 
 
-### Startups.com Rewrite
-Convert the old legacy site for startups.co to the newly purchased .com domain. Rebuilt the site with Webpack, Node.js, React, GraphQL, and a custom visual design library. Deployed in Docker containers on AWS.
-
-### Startups.com Design Library
-Created a new custom visual design library of components to work with React for quick building pages. Built off some base components (`<Container/>`, `<Text/>` and various `<Layouts/>`) quick designs could be made using the default props, and deeper changes could be made to any component through a robust prop system. Built with CSS-in-JS (Emotion), and published/consumed as an internal npm package.
-
-### Startups.com Security Audit
-Compiled a security audit against npm packages used in our main projects, as well as reviewing and testing our API endpoints.
-
----
 ## Improving, Inc: Consulting firm
 A tech consulting firm in Columbus, Ohio. 200 employees at the time, my responsibilities were at client locations, as well as interviewing new employees, interviewing at clients, and teaching / mentoring consultants.
 
-### Improving Client: IGS, Energy Resale – Customer facing Website  
+* **Improving Client: IGS, Energy Resale – Customer facing Website**   
 Worked with a team of four, in an agile process, to convert legacy code to new production code. The original site was written in AngularJS, and I was one of the developers moving the application to React with Redux. Other responsibilities: 
 Working closely with the Marketing department for requirements and approval
 Working on a high profile site that generates revenue for the business
 Helping use Scrum practices to organize work and goals
 Using React with Redux to produce a more stable, testable site
 
-### Improving Client: Anadarko Petroleum Corporation – Spatial Data
-Worked with a team of subject matter experts to build a Process Flow tracking piece of software that tracked the lifecycle of a Mapping Survey. The application was built with Angular4, Java SpringBoot and Leaflet/Esri maps. Some of the other details included:
+* **Improving Client: Anadarko Petroleum Corporation – Spatial Data**  
+Managed a team that worked out of Columbus, Ohio, with a team of subject matter experts in Houston, Texas to build a Process Flow tracking piece of software that tracked the lifecycle of a Mapping Survey. The application was built with Angular4, Java SpringBoot and Leaflet/Esri maps. Some of the other details included:
 Requirements gathering, project proposal, and sprint planning
 Interacting with clients, users, and interdepartmental organizations to achieve goals
 Connecting and refactoring a legacy non-relational database
@@ -81,26 +81,29 @@ Building a new website for the hospital (www.kapsowarhospital.org)
  
 ---
 
-### Battelle Client: CDC Public Health Tracking Network 
+## Battelle  
+One of the world's largest non-profits, with large US government contracts, largely military and health related. My time there included work with the CDC, NASA, US Army, and some internal projects. Notable achievements: 3rd place in an Internal Inventor competition, for a visual / tonal language learning system.
+
+* **Battelle Client: CDC Public Health Tracking Network**  
 Developed and maintained a public portal for 30+ years of Public Health data in the U.S. Worked with an HTML5 frontend, and a separate Flash/Flex tool connected to a SQL backend. I helped guide this site through a transition from a very web 1.0 version to a more adaptable backend design.
 Site built on Java/STRUTS
 Created a spinoff HTML5 Single Page App (http://ephtracking.cdc.gov/InfoByLocation/)
 Created a custom CMS and front end editor in MVC
  
-### Battelle Internal: Health Analytics Software 
+* **Battelle Internal: Health Analytics Software**   
 A Health Analytics tool, written for the Web. Taking advantage of hospital data with heavy statistical analysis applied to help hospitals realize where they need to spend their time and money.
 Involved from prototype to product in 6 months
 Worked directly with industry professionals to build a desirable product
 An HTML5, CSS, JavaScript project, built on Microsoft MVC4
 Worked with many javascript libraries for charting and display
  
-### Battelle Client: Kingdom of Saudi Arabia - GIS Mapping Site 
+* **Battelle Client: Kingdom of Saudi Arabia - GIS Mapping Site**  
 A mapping GIS website for heat and sun related data in Saudi Arabia. I helped to design a prototype for this site, and work with it to become a full project, taking in data from Saudi Arabia's monitoring stations, overlaying data from NREL, and comparing trends.
 Site built on Microsoft MVC3
 Prototyped in Leaflet.js for simple mapping
 Worked with OpenLayers and GeoServer
  
-### Battelle Internal: Genetic Sequencing Software 
+* **Battelle Internal: Genetic Sequencing Software**  
 A genetic sequencing software to compare different FASTQ sequences, and to find interesting alignment results. With modules for Single-nucleotide Polymorphisms, Mitochondrial DNA, and mixtures.
 Standalone Java desktop application
 Modular design, created in Netbeans
