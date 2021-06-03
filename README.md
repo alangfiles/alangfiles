@@ -7,6 +7,7 @@ so... fizzbuzz right?
 ```javascript
 for(i=0;i<100;)alert((++i%3?'':'Fizz')+(i%5?'':'Buzz')||i)
 ```
+wait... you're telling me you don't want it code golfed?
 
 ## Addendum
 
