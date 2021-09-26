@@ -36,7 +36,10 @@ Interests: Functional programming, ASM programming, Android Development
 ## Exhaustive Experience
 
 ### Startups.com
-Building various tools for engaging startup founders. Worked on a highly skilled small team to manage 7 websites, build new features and support at 50 person organization. 
+Built various tools for engaging startup founders. Worked on a highly skilled, very small team (3 engineers!) to manage 7 websites, build new products and features, and technically support at 50 person organization. On such a small team, being autonomous and taking ownership of products was crucial, as well as working with the whole company (from designers to CEO) to finalize specs of a product in flight.
+
+* **Startups.com Founder Groups**  
+  Built a fast growing new community based product, based on a low-code solution so it could quickly scale and be used by a non-technical team. Product grew to $1M MMR in just under 1 year. Went through 3 iterations, from being a Node/React style forum, to a Airtable/Zoom/Slack product, and then pulling some of those features back (custom chat and invite/scheduling system).
 
 * **Startups.com Rewrite**  
   Convert the old legacy site for startups.co to the newly purchased .com domain. Rebuilt the site with Webpack, Node.js, React, GraphQL, and a custom visual design library. Deployed in Docker containers on AWS.
