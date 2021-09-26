@@ -49,7 +49,15 @@ Built various tools for engaging startup founders. Worked on a highly skilled, v
 
 * **Startups.com Security Audit**  
   Compiled a security audit against npm packages used in our main projects, as well as reviewing and testing our API endpoints.
-
+ 
+* **Startups.com Properties**  
+  Built and maintained new features, deployments, uptime, and user support for the following sites under the startups.com umbrella
+  * www.fundable.com (fundraising) 
+  * www.zirutal.com (zirtual assistants) 
+  * www.launchrock.com (idea validation) 
+  * www.clarity.fm (twilio-based expert calls)
+  * www.bizplan.com (business plan / business consulting)
+  
 ---
 
 ## Improving, Inc: Consulting firm
