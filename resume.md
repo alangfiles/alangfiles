@@ -13,8 +13,8 @@ Certifications: Certified Scrum Master (CSM I)
 
 
 ## Experience
-### **Startups.com**: _2018 - Present_
-Building software  
+### **Startups.com**: _2018 - 2021_
+Building tools and technology to help startups form and grow.
 Technologies: React, Node, Javascript, Graphql  
 
 ### **Improving, Inc**: _2016 - 2018_
