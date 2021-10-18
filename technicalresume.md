@@ -17,6 +17,7 @@ Bachelor of Science in Computer Science and Engineering - The Ohio State Univers
 _Emphasis on Programming and Systems Software_
 
 ## Work History
+2021 - Present: Senior Software Engineer - Ribbon (ribbonhome.com)  
 2018 - 2021: Senior Software Engineer - Startups.com  
 2017 - 2018: Senior Consultant – Improving Enterprises  
 2016 - 2017: AIC Kapsowar Hospital, Kenya - Hospital Consultant  
