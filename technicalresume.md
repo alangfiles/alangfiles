@@ -26,12 +26,12 @@ _Emphasis on Programming and Systems Software_
 2009 - 2010: AIC Hospital, Kijabe, Kenya - IT Consultant  
 
 ## Programming
-Languages: C#, Java, SQL, JavaScript, CSS, HTML, ActionScript/Flash Flex
-JavaScript Libraries:  React, Redux, Typescript, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS)
-Tools: git, subversion, JIRA, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo
+Languages: C#, Java, SQL, JavaScript, CSS, HTML, Python, ActionScript/Flash Flex
+Libraries:  React, Redux, Typescript, Django, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS)
+Tools: git, subversion, JIRA, Github Actions, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo
 Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio
-Certifications: Certified Scrum Master (CSM I)
-Interests: Functional programming, ASM programming, Android Development
+Certifications: Certified Professional Scrum Master (PSM I), Professional Scrum Product Owner (PSPO I) 
+Interests: Functional programming, ASM programming, Android Development, 6502 Assembler (aka NES programming)
 
 
 ## Exhaustive Experience
