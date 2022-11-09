@@ -17,7 +17,7 @@ Bachelor of Science in Computer Science and Engineering - The Ohio State Univers
 _Emphasis on Programming and Systems Software_
 
 ## Work History
-2021 - Present: Senior Software Engineer - Ribbon (ribbonhome.com)  
+2021 - Present: Engineering Manager - Ribbon (ribbonhome.com)  
 2018 - 2021: Senior Software Engineer - Startups.com  
 2017 - 2018: Senior Consultant – Improving Enterprises  
 2016 - 2017: AIC Kapsowar Hospital, Kenya - Hospital Consultant  
@@ -35,6 +35,9 @@ Interests: Functional programming, ASM programming, Android Development, 6502 As
 
 
 ## Exhaustive Experience
+
+### Ribbon
+Joined a Real Estate startup in a hyper-growth stage to help build new products focused around home selling. Transitioned into managing a technical documents/operations team working on expanding our product to more states and worked on Machine Learning to recognize and extract values from user uploaded documents. Lead a team of 6 engineers through scrum ceremonies and 1 on 1's. Performed 30 interviews ranging from Software Associates to VP of Engineering, pushed process updates for the interviewing of staff engineers. Worked with Product Managers and Design to organize product work and bring it to completion through the engineering team.
 
 ### Startups.com
 Built various tools for engaging startup founders. Worked on a highly skilled, very small team (3 engineers!) to manage 7 websites, build new products and features, and technically support at 50 person organization. On such a small team, being autonomous and taking ownership of products was crucial, as well as working with the whole company (from designers to CEO) to finalize specs of a product in flight.
