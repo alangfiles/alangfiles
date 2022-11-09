@@ -42,7 +42,7 @@ Joined a Real Estate startup in a hyper-growth stage to help build new products 
 * **Documents Team**  
    Lead a team of 3 senior engineers working on expanding our product to more states and worked on Machine Learning to recognize and extract values from user uploaded documents.
    
-* **Web Team** 
+* **Web Team**  
   Merged the Documents Team with the web product, streamlinging delivery on the new product. Switched to a more Agile methodology (after previously using 6 week cycles to 2 week scrum style sprints). Lead a team of 6 engineers (and an intern) through scrum ceremonies and 1-on-1's. Performed over 30 interviews ranging from Software Associates to VP of Engineering, pushed process updates for the interviewing of staff engineers. Worked with Product Managers and Design to organize product work and bring it to completion through the engineering team.
 
 ### Startups.com - Senior Software Engineer
@@ -70,7 +70,7 @@ Built various tools for engaging startup founders. Worked on a highly skilled, v
   
 ---
 
-## Improving, Inc: Consulting firm
+## Improving, Inc: Consulting firm - Senior Consultant
 A tech consulting firm in Columbus, Ohio. 200 employees at the time, my responsibilities were at client locations, as well as interviewing new employees, interviewing at clients, and teaching / mentoring consultants.
 
 * **Improving Client: IGS, Energy Resale – Customer facing Website**   
