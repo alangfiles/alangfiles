@@ -8,16 +8,16 @@ Currently located in Columbus, Ohio, with 8+ years of professional programming e
 
 ## Programming
 **Languages**: JavaScript, C#, Java, SQL, CSS, HTML, Python, ActionScript/Flash Flex  
-**JavaScript Libraries**:  React, Graphql, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion
-**Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js
+**JavaScript Libraries**:  React, Graphql, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion  
+**Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js  
 **Frameworks**: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
 
 ## Management
-**Goals Frameworks**: OKRs, SMART
-**Engingeering Processes**: Agile Sprints, Basecamp Cycles, Guilds, ADR (Architecture Decision Records), RFC (Request for Comments)
-**Tools**: JIRA, Github Actions, Notion
-**Interviewing**: Experience interviewing from Software Associate to Senior Staff Engineer
-**Certifications**: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)
+**Goals Frameworks**: OKRs, SMART  
+**Engingeering Processes**: Agile Sprints, Basecamp Cycles, Guilds, ADR (Architecture Decision Records), RFC (Request for Comments)  
+**Tools**: JIRA, Github Actions, Notion  
+**Interviewing**: Experience interviewing from Software Associate to Senior Staff Engineer  
+**Certifications**: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)  
 
 
 ## Education
