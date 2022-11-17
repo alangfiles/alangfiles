@@ -3,7 +3,7 @@
 ## Alan Files
 Location: Columbus, Ohio
 
-Currently located in Columbus, Ohio, with 8+ years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked in 5-10 person teams, from developer to architect on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
+Currently located in Columbus, Ohio, with over 12 years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked and lead in 5-10 person teams, from Engineer to Tech Lead on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
 
 
 ## Programming
@@ -11,6 +11,8 @@ Currently located in Columbus, Ohio, with 8+ years of professional programming e
 **JavaScript Libraries**:  React, Graphql, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion  
 **Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js  
 **Frameworks**: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
+**Interests**: Functional programming, 6502 Assembler (aka NES programming), Foraging
+
 
 ## Management
 **Goals Frameworks**: OKRs, SMART  
@@ -32,15 +34,6 @@ _Emphasis on Programming and Systems Software_
 2011 - 2016: Battelle Memorial Institute - Research Scientist  
 2010 - 2011: Freelance Web Developer  
 2009 - 2010: AIC Hospital, Kijabe, Kenya - IT Consultant  
-
-## Programming
-Languages: C#, Java, SQL, JavaScript, CSS, HTML, Python, ActionScript/Flash Flex
-Libraries:  React, Redux, Typescript, Django, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS)
-Tools: git, subversion, JIRA, Github Actions, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo
-Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio
-Certifications: Certified Professional Scrum Master (PSM I), Professional Scrum Product Owner (PSPO I) 
-Interests: Functional programming, ASM programming, Android Development, 6502 Assembler (aka NES programming)
-
 
 ## Exhaustive Experience
 
