@@ -1,9 +1,7 @@
 **This document is an exhaustive list of what I've worked on over my career**
 
 ## Alan Files
-Location: Columbus, Ohio
-
-Currently located in Columbus, Ohio, with over 12 years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked and lead in 5-10 person teams, from Engineer to Tech Lead on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
+Currently located in Columbus, Ohio, with over 12 years of professional programming experience. Interested in data analytics, software design, web development, and helping engineers grow in their careers. I've mainly worked and lead in 5-10 person teams, from Engineer to Tech Lead on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
 
 
 ## Programming
