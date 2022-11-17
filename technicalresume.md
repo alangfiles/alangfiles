@@ -16,13 +16,12 @@ Currently located in Columbus, Ohio, with over 12 years of professional programm
 **Goals Frameworks**: OKRs, SMART  
 **Engingeering Processes**: Agile Sprints, Basecamp Cycles, Guilds, ADR (Architecture Decision Records), RFC (Request for Comments)  
 **Tools**: JIRA, Github Actions, Notion  
-**Interviewing**: Experience interviewing from Software Associate to Senior Staff Engineer  
+**Interviewing**: Experience in over 40 interviews from Software Associate to Senior Staff Engineer  
 **Certifications**: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)  
 
 
 ## Education
-Bachelor of Science in Computer Science and Engineering - The Ohio State University  
-_Emphasis on Programming and Systems Software_
+Bachelor of Science in Computer Science and Engineering - The Ohio State University  _Emphasis on Programming and Systems Software_  
 
 ## Work History
 2021 - Present: Engineering Manager - Ribbon (ribbonhome.com)  
