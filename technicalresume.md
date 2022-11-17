@@ -5,7 +5,7 @@ Location: Columbus, Ohio
 
 
 ## Programming
-Languages: JavaScript, Graphql, C#, Java, SQL, CSS, HTML, ActionScript/Flash Flex  
+*Languages*: JavaScript, Graphql, C#, Java, SQL, CSS, HTML, ActionScript/Flash Flex  
 JavaScript Libraries:  React, Redux, Typescript, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion
 Tools: git, subversion, JIRA, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js
 Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
