@@ -1,5 +1,3 @@
-**This document is an exhaustive list of what I've worked on over my career**
-
 ## Alan Files
 Currently located in Columbus, Ohio, with over 12 years of professional programming experience. Interested in data analytics, software design, web development, and helping engineers grow in their careers. I've mainly worked and lead in 5-10 person teams, from Engineer to Tech Lead on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
 
@@ -32,17 +30,22 @@ Bachelor of Science in Computer Science and Engineering - The Ohio State Univers
 2010 - 2011: Freelance Web Developer  
 2009 - 2010: AIC Hospital, Kijabe, Kenya - IT Consultant  
 
-## Exhaustive Experience
+## Exhaustive Experience 
 
 ### Ribbon (ribbonhome.com) - Engineering Manager
-Joined a Real Estate startup in a hyper-growth stage to help build new products focused around home selling. Transitioned into managing a technical documents/operations team. 
+Joined a Real Estate startup in a hyper-growth stage (from 100 - 300 people) to help build new products focused around home selling. Transitioned into managing a technical documents/operations team. Worked on a platform serving over 40,000 real estate agents across 17 US states and 25 markets.
 
 * **Documents/Expansion Team**  
    Lead a team of 3 senior engineers working on expanding our product to more states and worked on Machine Learning to recognize and extract values from user uploaded documents.
    * Moved the expansion process from a hard-coded dev-intensive process to a database configuration driven process. We were able to expand into new markets with no engineering time needed by the end of the process, just configuration setup by the subject matter experts.
+   * Shipped a Machine Learning solution that would recognize and extract values from user uploaded real estate transaction documents and create matching models in our system.
    
 * **Web Team**  
-  Merged the Documents Team with the web product, streamlinging delivery on the new product. Switched to a more Agile methodology (after previously using 6 week cycles to 2 week scrum style sprints). Lead a team of 6 engineers (and an intern) through scrum ceremonies and 1-on-1's. Performed over 30 interviews ranging from Software Associates to VP of Engineering, pushed process updates for the interviewing of staff engineers. Worked with Product Managers and Design to organize product work and bring it to completion through the engineering team.
+  Merged the Documents Team with the web product, streamlinging delivery on the new product. Switched to a more Agile methodology (after previously using 6 week cycles to 2 week scrum style sprints). Lead a team of 6 engineers (and an intern) through scrum ceremonies and 1-on-1's. Performed over 30 interviews ranging from Software Associates to VP of Engineering. Worked with Product Managers and Design to organize product work and bring it to completion through the engineering team.
+  * Updated the process for Staff Engineer Interviews to increase the efficiency of the hiring funnel from the Hiring Manager interview by adding more technical questions and more space for questions from the interviewee.
+  * Pull together a team of 7 Engineers from 3 different teams into a single new team, with team building exercises, career growth planning, and helping to organize pairing and unblocking to help level up engineers.
+
+---
 
 ### Startups.com - Senior Software Engineer
 Built various tools for engaging startup founders. Worked on a highly skilled, very small team (3 engineers!) to manage 7 websites, build new products and features, and technically support at 50 person organization. On such a small team, being autonomous and taking ownership of products was crucial, as well as working with the whole company (from designers to CEO) to finalize specs of a product in flight.
