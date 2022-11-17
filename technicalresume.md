@@ -39,8 +39,9 @@ Interests: Functional programming, ASM programming, Android Development, 6502 As
 ### Ribbon (ribbonhome.com) - Engineering Manager
 Joined a Real Estate startup in a hyper-growth stage to help build new products focused around home selling. Transitioned into managing a technical documents/operations team. 
 
-* **Documents Team**  
+* **Documents/Expansion Team**  
    Lead a team of 3 senior engineers working on expanding our product to more states and worked on Machine Learning to recognize and extract values from user uploaded documents.
+   * Moved the expansion process from a hard-coded dev-intensive process to a database configuration driven process. We were able to expand into new markets with no engineering time needed by the end of the process, just configuration setup by the subject matter experts.
    
 * **Web Team**  
   Merged the Documents Team with the web product, streamlinging delivery on the new product. Switched to a more Agile methodology (after previously using 6 week cycles to 2 week scrum style sprints). Lead a team of 6 engineers (and an intern) through scrum ceremonies and 1-on-1's. Performed over 30 interviews ranging from Software Associates to VP of Engineering, pushed process updates for the interviewing of staff engineers. Worked with Product Managers and Design to organize product work and bring it to completion through the engineering team.
