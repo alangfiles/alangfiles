@@ -3,14 +3,22 @@
 ## Alan Files
 Location: Columbus, Ohio
 
+Currently located in Columbus, Ohio, with 8+ years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked in 5-10 person teams, from developer to architect on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
+
 
 ## Programming
-*Languages*: JavaScript, Graphql, C#, Java, SQL, CSS, HTML, ActionScript/Flash Flex  
-JavaScript Libraries:  React, Redux, Typescript, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion
-Tools: git, subversion, JIRA, Chrome Debugger, Eventum, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js
-Frameworks: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
-Certifications: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)
-Currently located in Columbus, Ohio, with 8+ years of professional programming experience. Interested in data analytics, software design, and web development. I've mainly worked in 5-10 person teams, from developer to architect on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know.
+**Languages**: JavaScript, C#, Java, SQL, CSS, HTML, Python, ActionScript/Flash Flex  
+**JavaScript Libraries**:  React, Graphql, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion
+**Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js
+**Frameworks**: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
+
+## Management
+**Goals Frameworks**: OKRs, SMART
+**Engingeering Processes**: Agile Sprints, Basecamp Cycles, Guilds, ADR (Architecture Decision Records), RFC (Request for Comments)
+**Tools**: JIRA, Github Actions, Notion
+**Interviewing**: Experience interviewing from Software Associate to Senior Staff Engineer
+**Certifications**: Professional Scrum Master (PSM I), Professional Scrum Product Owner I (PSPO I)
+
 
 ## Education
 Bachelor of Science in Computer Science and Engineering - The Ohio State University  
