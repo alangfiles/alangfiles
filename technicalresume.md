@@ -1,4 +1,4 @@
-#![profileNew](https://user-images.githubusercontent.com/2061801/204883487-62797265-2c75-4412-a780-9690684a6184.jpg)
+
 # Alan Files
 Currently located in Columbus, Ohio, with over 10 years of professional programming experience. Interested in data analytics, software design, web development, and helping engineers grow in their careers. I've mainly worked and lead in 5-10 person teams, from Engineer to Tech Lead on various projects, over a variety of software platforms (from Java and C# standalones to JavaScript-based Single Page Applications and large scale React Applications). I enjoy learning new technologies and trying to push my limits on both gathering new knowledge and the accurate application of what I already know. I also enjoy helping engineers level up their skills and find their niche in the programming world.
 
