@@ -6,6 +6,7 @@ Currently located in Columbus, Ohio, with over 10 years of professional programm
 
 ## Programming
 **Preferred Stack: JavaScript/TypeScript, React, ChakraUI, GraphQL, Node.js**  
+
 **Languages**: JavaScript, SQL, C#, Java, CSS, HTML, Python, ActionScript/Flash Flex  
 **JavaScript Libraries**:  React, GraphQL, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion  
 **Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js  
