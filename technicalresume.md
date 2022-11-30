@@ -22,7 +22,7 @@ Currently located in Columbus, Ohio, with over 12 years of professional programm
 Bachelor of Science in Computer Science and Engineering - The Ohio State University  _Emphasis on Programming and Systems Software_  
 
 ## Work History
-2021 - Present: Engineering Manager - Ribbon (ribbonhome.com)  
+Sept 2021 - Nov 2022: Engineering Manager - Ribbon (ribbonhome.com)  
 2018 - 2021: Senior Software Engineer - Startups.com  
 2017 - 2018: Senior Consultant – Improving Enterprises  
 2016 - 2017: AIC Kapsowar Hospital, Kenya - Hospital Consultant  
