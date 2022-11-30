@@ -3,7 +3,7 @@ Currently located in Columbus, Ohio, with over 10 years of professional programm
 
 
 ## Programming
-**Preferred Stack**: JavaScript/Typescript, React, ChakraUI, GraphQL, Node.js  
+**Preferred Stack: JavaScript, React, ChakraUI, GraphQL, Node.js**  
 **Languages**: JavaScript, SQL, C#, Java, CSS, HTML, Python, ActionScript/Flash Flex  
 **JavaScript Libraries**:  React, GraphQL, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion  
 **Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js  
@@ -34,7 +34,7 @@ Oct 2021 - Nov 2022: Engineering Manager - Ribbon (ribbonhome.com)
 ## Exhaustive Experience 
 
 ### Ribbon (ribbonhome.com) - Engineering Manager
-**Tech Stack:** Javascript/TS/React/GraphQL frontend with Python/Django Backend  
+**Tech Stack:** Javascript, TypeScript, React, GraphQL Frontend with Python, Django Backend  
 
 Joined a Real Estate startup in a hyper-growth stage (from 100 - 300 people) to help build new products focused around home selling. Transitioned into managing a technical documents/operations team. Worked on a platform serving over 40,000 real estate agents across 17 US states and 25 markets.
 
@@ -52,7 +52,7 @@ Joined a Real Estate startup in a hyper-growth stage (from 100 - 300 people) to 
 ---
 
 ### Startups.com - Senior Software Engineer
-**Tech Stack:** Javascript/TS/React/GraphQL frontend with Node.js Backend  
+**Tech Stack:** Javascript, TypeScript, React, GraphQL frontend with Node.js Backend  
 
 Built various tools for engaging startup founders. Worked on a highly skilled, very small team (3 engineers!) to manage 7 websites, build new products and features, and technically support at 50 person organization. On such a small team, being autonomous and taking ownership of products was crucial, as well as working with the whole company (from designers to CEO) to finalize specs of a product in flight.
 
