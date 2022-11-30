@@ -8,7 +8,7 @@ Currently located in Columbus, Ohio, with over 10 years of professional programm
 **JavaScript Libraries**:  React, GraphQL, Typescript, Redux, Angular4, jQuery, underscore/lodash (Data processing), highcharts (Graphics), leaflet/ArcGIS API (GIS), Emotion  
 **Tools**: git, subversion, JIRA, Chrome Debugger, Eventum, Django, vim, Hibernate, Entity Framework, Microsoft TFS, Denodo, webpack, css-in-js  
 **Frameworks**: Microsoft Visual Studio, Netbeans, Eclipse, Android Studio  
-**Interests**: Functional programming, 6502 Assembler (aka NES programming)
+**Interests**: Functional programming, 6502 Assembler (aka NES programming, I made my own NES game and cartridges https://alangfiles.github.io/corgs-simulator/)
 
 
 ## Management
