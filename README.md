@@ -1,6 +1,6 @@
 ## Hi :wave:
 
-I'm Alan Files. A software developer in Columbus, Ohio. I'm interested in Software Development, Security, Programming, and how these things make their way into the real world. I'm always poking around with functional code, ideas of writing a NES game in assembly, or doing a code golf exercise. To balance out that eccentricity, I spend a lot of time making websites with javascript, react, and graphql.
+I'm Alan Files. A software engineering leader in Columbus, Ohio. I'm interested in Software Development, Security, Programming, and how these things make their way into the real world. I'm also interested in helping other developers find their niche in the software world. I'm always poking around with functional code, ideas of writing a NES game in assembly, or doing a code golf exercise. 
 
 ## Programming
 so... fizzbuzz right?
